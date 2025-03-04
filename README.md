@@ -11,14 +11,4 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 
 ## Diary Entries
 
-<details>
-<summary>2025</summary>
-
-<details>
-<summary>March</summary>
-
-- [March 4](2025/03/04.md)
-
-</details>
-
-</details>
+**2025 March:** [04](2025/03/04.md).
