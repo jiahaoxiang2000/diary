@@ -67,8 +67,24 @@ jobs:
           
           # Check if there are new issues to add
           if [[ "$ISSUES" != "No new issues created this week." && -n "$ISSUES" ]]; then
-            # Add new issues at the top of TODO Collection section (after the header)
-            sed -i "/## TODO Collection/a\\\\\\n\\\\\\n${ISSUES}" README.md
+            # Create a temporary file with new issues
+            echo -e "\n\n$ISSUES" > new_issues.txt
+            
+            # Use awk to insert new issues after TODO Collection header
+            awk '
+              /^## TODO Collection$/ {
+                print $0
+                while ((getline line < "new_issues.txt") > 0) {
+                  print line
+                }
+                close("new_issues.txt")
+                next
+              }
+              { print }
+            ' README.md > README_temp.md && mv README_temp.md README.md
+            
+            # Clean up
+            rm -f new_issues.txt
           fi
           
       - name: Commit and push changes
