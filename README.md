@@ -8,6 +8,34 @@ This is the _reason_ why I write the diary.
 
 ## TODO Collection
 
+
+### [#21](https://github.com/jiahaoxiang2000/diary/issues/21) TODO 2025-08-05
+- [x] weekly meeting
+
+--- 
+
+see some adventage people, how to think & do, the passion will be through. next target is to quikly finis the third paper revision, then finish the big paper writing.
+
+### [#20](https://github.com/jiahaoxiang2000/diary/issues/20) TODO 2025-08-04
+- [x] https://github.com/jiahaoxiang2000/tutor/issues/1 read the one student one system material on https://github.com/jiahaoxiang2000/tutor/tree/main/OneStudent
+- [x] writing weekly report
+
+### [#19](https://github.com/jiahaoxiang2000/diary/issues/19) TODO 2025-08-03
+- [x] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 for read to fix the revision
+- [ ] https://github.com/jiahaoxiang2000/tutor/issues/1  read the one student one system material on https://github.com/jiahaoxiang2000/tutor/tree/main/OneStudent 
+
+### [#18](https://github.com/jiahaoxiang2000/diary/issues/18) TODO 2025-08-02
+- [x] to learn the ahk key 
+
+### [#17](https://github.com/jiahaoxiang2000/diary/issues/17) TODO 2025-08-01
+- [ ] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 for read to fix the revision
+- [x] development envriment resume on the wsl 
+
+### [#16](https://github.com/jiahaoxiang2000/diary/issues/16) TODO 2025-07-31
+- [ ] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 for read to fix the revision
+
+
+
 ### [#19](https://github.com/jiahaoxiang2000/diary/issues/19) TODO 2025-08-03
 - [x] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 for read to fix the revision
 - [ ] https://github.com/jiahaoxiang2000/tutor/issues/1  read the one student one system material on https://github.com/jiahaoxiang2000/tutor/tree/main/OneStudent 
