@@ -6,6 +6,94 @@ Sometimes, I will lose some passion or target; I will write some diary entries t
 Let the thinking then do it and record what things happen. By the way, I can study the past and improve the future.
 This is the _reason_ why I write the diary.
 
+## TODO Collection
+
+### [#19](https://github.com/jiahaoxiang2000/diary/issues/19) TODO 2025-08-03
+- [x] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 for read to fix the revision
+- [ ] https://github.com/jiahaoxiang2000/tutor/issues/1  read the one student one system material on https://github.com/jiahaoxiang2000/tutor/tree/main/OneStudent 
+
+### [#18](https://github.com/jiahaoxiang2000/diary/issues/18) TODO 2025-08-02
+- [x] to learn the ahk key 
+
+### [#17](https://github.com/jiahaoxiang2000/diary/issues/17) TODO 2025-08-01
+- [ ] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 for read to fix the revision
+- [x] development envriment resume on the wsl 
+
+### [#16](https://github.com/jiahaoxiang2000/diary/issues/16) TODO 2025-07-31
+- [ ] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 for read to fix the revision
+
+### [#15](https://github.com/jiahaoxiang2000/diary/issues/15) TODO 2025-07-30
+- [ ] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 for read to fix the revision
+- [x] introduction software used on the linux, finish on https://jiahaoxiang2000.github.io/blog/misc/arch-linux-dotfiles
+
+### [#14](https://github.com/jiahaoxiang2000/diary/issues/14) TODO 2025-07-29
+- [ ] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 for read to fix the revision
+- [x] weekly meeting
+
+### [#13](https://github.com/jiahaoxiang2000/diary/issues/13) TODO 2025-07-28
+- [x] https://github.com/jiahaoxiang2000/project_apply/issues/1 
+  - [x] finish the word version material, not finish on https://github.com/jiahaoxiang2000/diary/issues/12
+  - [x] collect all the proof material
+- [x] writing the weekly report  
+
+### [#12](https://github.com/jiahaoxiang2000/diary/issues/12) TODO 2025-07-27
+- [x] project apply FINISH report writing. https://github.com/jiahaoxiang2000/project_apply/issues/1
+
+### [#11](https://github.com/jiahaoxiang2000/diary/issues/11) TODO 2025-07-26
+- [x] papre to do the project apply FINISH material. https://github.com/jiahaoxiang2000/project_apply/issues/1
+- [x] ready to revision https://github.com/jiahaoxiang2000/ThirdPaper/issues/11
+
+### [#10](https://github.com/jiahaoxiang2000/diary/issues/10) TODO 2025-07-25
+- [x] teacher check,  paper revision submit, https://github.com/jiahaoxiang2000/SecondPaper/issues/5
+
+### [#9](https://github.com/jiahaoxiang2000/diary/issues/9) TODO 2025-07-24
+> not finish the job on https://github.com/jiahaoxiang2000/diary/issues/8
+
+- [x] full check all the second paper response & material, linked on https://github.com/jiahaoxiang2000/SecondPaper/issues/5
+
+### [#8](https://github.com/jiahaoxiang2000/diary/issues/8) TODO 2025-07-23
+- [ ] full check all the second paper response & material, linked on https://github.com/jiahaoxiang2000/SecondPaper/issues/5
+- [x] plan the project ending material
+  - here we to see the past material, create the issue plan to do on https://github.com/jiahaoxiang2000/project_apply/issues/1
+
+### [#7](https://github.com/jiahaoxiang2000/diary/issues/7) TODO 2025-07-22
+- [x] second paper response format from the _PDF_ to _Word_ template
+- [x] weekly meeting 
+
+### [#6](https://github.com/jiahaoxiang2000/diary/issues/6) TODO 2025-07-21
+> https://github.com/jiahaoxiang2000/diary/issues/5 not finish one item
+
+- [x]  writing response for the reviews/editor
+  - 1.2 response NIST lightweight cryptography schemes?
+  - review summary response   
+- [x] writing weekly report on https://github.com/jiahaoxiang2000/weekly_report/commit/dcfcffeda21f2165605cebb56bba91ebccb9439d
+- [x] add the foundation https://github.com/jiahaoxiang2000/SecondPaper/commit/32cb8e440e9657838eecb8b7ffd941b5b5d2405e
+
+### [#5](https://github.com/jiahaoxiang2000/diary/issues/5) TODO 2025-07-20
+- [x] finish the gift experiment DATA TABLE
+  - data from https://github.com/jiahaoxiang2000/bitsliced_optimize/issues/1  
+  - finish on the https://github.com/jiahaoxiang2000/SecondPaper/commit/89d25b7db530c32b6c80874b8024aeb6160ad56f
+- [ ] writing response for the reviews/editor
+
+### [#4](https://github.com/jiahaoxiang2000/diary/issues/4) TODO 2025-07-19
+> not finished on the https://github.com/jiahaoxiang2000/diary/issues/3 
+
+- [x] gift cipher optimize
+  - plan on   ##https://github.com/jiahaoxiang2000/bitsliced_optimize/issues/1
+
+### [#3](https://github.com/jiahaoxiang2000/diary/issues/3) TODO 2025-07-17
+> not finished on the https://github.com/jiahaoxiang2000/diary/issues/2 
+- [ ] gift cipher optimize
+  - plan on   ##https://github.com/jiahaoxiang2000/bitsliced_optimize/issues/1
+- [x] third paper review comment record
+  - add at https://github.com/jiahaoxiang2000/ThirdPaper/commit/f40f9476124299cd960da8bbc4c2a2110d7c0188
+
+### [#2](https://github.com/jiahaoxiang2000/diary/issues/2) TODO 2025-07-16
+- [ ] gift cipher optimize
+- [ ] third paper review comment record
+
+---
+
 ## Structure
 
 we use the year and month as the folder name, and the file name is the date.
