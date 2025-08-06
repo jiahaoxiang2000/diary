@@ -68,9 +68,7 @@ jobs:
           # Check if there are new issues to add
           if [[ "$ISSUES" != "No new issues created this week." && -n "$ISSUES" ]]; then
             # Add new issues at the top of TODO Collection section (after the header)
-            sed -i "/## TODO Collection/a\\
-\\
-${ISSUES}" README.md
+            sed -i "/## TODO Collection/a\\\\\\n\\\\\\n${ISSUES}" README.md
           fi
           
       - name: Commit and push changes
