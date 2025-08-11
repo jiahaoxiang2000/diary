@@ -23,6 +23,37 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 
 ## TODO Collection
 
+
+### [#26](https://github.com/jiahaoxiang2000/diary/issues/26) 2025-08-10
+- [ ] pepare the  claude code subagent to use example and other function trick
+- [x] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 one expriment data need to finish
+  -  https://github.com/jiahaoxiang2000/ThirdPaper/commits/main/?since=2025-08-10&until=2025-08-10 to finish the p1.1, next day to finish the p2.2 & p3.1 
+
+### [#25](https://github.com/jiahaoxiang2000/diary/issues/25) 2025-08-09
+- [x] https://github.com/jiahaoxiang2000/mc-mod/releases/tag/v1.0.0 finish the MC build mod
+
+### [#24](https://github.com/jiahaoxiang2000/diary/issues/24) 2025-08-08
+- [ ] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 need to prepare the mainjor expriment for compate table
+- [x] 20:00 one student one system meeting
+
+### [#23](https://github.com/jiahaoxiang2000/diary/issues/23) 2025-08-07
+> not do any job on the #22 , is very bad.
+
+- [ ] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 need to prepare the mainjor expriment for compate table
+- [x] prepare one student one system slide to show, finish on https://github.com/jiahaoxiang2000/tutor/commit/0aa13d7aca2b5fb9346df0dbaff13bc1d0d840cb
+
+### [#22](https://github.com/jiahaoxiang2000/diary/issues/22) 2025-08-06
+- [ ] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 need to prepare the mainjor expriment for compate table
+- [ ] the big paper can also to prepare translate of the second & third paper.
+
+### [#21](https://github.com/jiahaoxiang2000/diary/issues/21) TODO 2025-08-05
+- [x] weekly meeting
+
+--- 
+
+see some adventage people, how to think & do, the passion will be through. next target is to quikly finis the third paper revision, then finish the big paper writing.
+
+
 ### [#19](https://github.com/jiahaoxiang2000/diary/issues/19) TODO 2025-08-03
 - [x] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 for read to fix the revision
 - [ ] https://github.com/jiahaoxiang2000/tutor/issues/1  read the one student one system material on https://github.com/jiahaoxiang2000/tutor/tree/main/OneStudent 
