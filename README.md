@@ -38,7 +38,7 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 - [ ] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 to finish the performance experiment
 
 
-### [#30](https://github.com/jiahaoxiang2000/diary/issues/30) 25-08-16 Thu
+### [#30](https://github.com/jiahaoxiang2000/diary/issues/30) 25-08-14 Thu
 - [ ] https://github.com/jiahaoxiang2000/blivedm_rs/issues/16 plan to do the LLM auto replay for blive_dm from #29 
 - [ ] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 to finish the performance experiment
 
