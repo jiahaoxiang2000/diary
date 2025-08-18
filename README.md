@@ -24,6 +24,44 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#33](https://github.com/jiahaoxiang2000/diary/issues/33) 25-08-17 Sun
+- [x] try use Godot create video, try it on https://github.com/jiahaoxiang2000/gdcv, but not to keep
+- [ ] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 to finish the performance experiment
+
+
+### [#32](https://github.com/jiahaoxiang2000/diary/issues/32) 25-08-16 Sat
+- [x] https://github.com/jiahaoxiang2000/blivedm_rs/issues/16 plan to do the keywork auto replay, create video on https://www.bilibili.com/video/BV1EvbtzNEbj
+
+### [#31](https://github.com/jiahaoxiang2000/diary/issues/31) 25-08-15 Fri
+> #30 not finish any job, all the time to the next stage study plan.
+- [x] https://github.com/jiahaoxiang2000/blivedm_rs/issues/16 plan to do the LLM auto replay for blive_dm from #29 
+- [ ] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 to finish the performance experiment
+
+
+### [#30](https://github.com/jiahaoxiang2000/diary/issues/30) 25-08-16 Thu
+- [ ] https://github.com/jiahaoxiang2000/blivedm_rs/issues/16 plan to do the LLM auto replay for blive_dm from #29 
+- [ ] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 to finish the performance experiment
+
+
+### [#29](https://github.com/jiahaoxiang2000/diary/issues/29) 25-08-13 Wed
+- [x] pepare the  claude code subagent to use example and other function trick from #26  
+  - https://github.com/jiahaoxiang2000/jiahaoxiang2000.github.io/commit/a25e5b67fe15feccdae97b550ee773df44e91c4a blog to show subagent 
+- [ ] https://github.com/jiahaoxiang2000/blivedm_rs/issues/16 plan to do the LLM auto replay for blive_dm
+
+
+### [#28](https://github.com/jiahaoxiang2000/diary/issues/28) 25-08-12 Tue
+> not finish on #27 
+- [ ] pepare the  claude code subagent to use example and other function trick from #26 
+- [ ] https://github.com/jiahaoxiang2000/blivedm_rs/issues/16 plan to do the LLM auto replay for blive_dm
+- [x] weekly meeting
+
+### [#27](https://github.com/jiahaoxiang2000/diary/issues/27) 25-08-11 Mon
+- [x] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 one expriment data need to finish, to finish the p2.2 & p3.1
+- [ ] pepare the  claude code subagent to use example and other function trick from #26 
+- [ ] https://github.com/jiahaoxiang2000/blivedm_rs/issues/16 plan to do the LLM auto replay for blive_dm
+
+
+
 ### [#26](https://github.com/jiahaoxiang2000/diary/issues/26) 2025-08-10
 - [ ] pepare the  claude code subagent to use example and other function trick
 - [x] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 one expriment data need to finish
