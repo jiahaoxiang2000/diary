@@ -24,6 +24,42 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#40](https://github.com/jiahaoxiang2000/diary/issues/40) 25-08-24 Sun
+- [ ] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 let the leader to review, fix the issue, then to push journal
+
+
+### [#39](https://github.com/jiahaoxiang2000/diary/issues/39) 25-08-23 Sat
+- [x] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 let lead to review, then prepare re submit.
+- [x] start prepare big paper by used the AI tools to finish the paper
+  - https://github.com/jiahaoxiang2000/big_paper/issues/3 ready to use LLM to translate paper
+
+### [#38](https://github.com/jiahaoxiang2000/diary/issues/38) 25-08-22 Fri
+- [x] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 to full check the all sentence & experiment data
+  - check the response https://github.com/jiahaoxiang2000/ThirdPaper/commit/34bfea1348d6c47e2c1ba4bf003502875aaaca53 
+  - Response WORD version https://github.com/jiahaoxiang2000/ThirdPaper/commit/5bf78aaa1fedda6b2d67697267475e2c8cc685d9
+- [x] one student on system meeting
+
+### [#37](https://github.com/jiahaoxiang2000/diary/issues/37) 25-08-21 Thu
+- [ ] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 to full check the all sentence & experiment data
+- [x] Big paper, restart with https://github.com/jiahaoxiang2000/big_paper/commit/265b33e3fcfb0b33ac3446a0285fcbba6ea4257e 
+
+### [#36](https://github.com/jiahaoxiang2000/diary/issues/36) 25-08-20 Wed
+> nothing want to do, just play the game, hhh
+
+early go home bed. zzz 🥳
+
+### [#35](https://github.com/jiahaoxiang2000/diary/issues/35) 25-08-19 Tue
+- [x] weekly report meeting
+- [ ] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 to re submission third paper
+
+### [#34](https://github.com/jiahaoxiang2000/diary/issues/34) 25-08-18 Mon
+- [x] writing weekly report on https://github.com/jiahaoxiang2000/weekly_report/commit/b15c65d6a5c3b1df0d3e42533a7c5772135e2d12
+- [ ] start prepare big paper 
+
+> the second paper is with AE, maybe quickly get the decision.
+
+
+
 ### [#33](https://github.com/jiahaoxiang2000/diary/issues/33) 25-08-17 Sun
 - [x] try use Godot create video, try it on https://github.com/jiahaoxiang2000/gdcv, but not to keep
 - [ ] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 to finish the performance experiment
