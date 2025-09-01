@@ -24,6 +24,36 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#47](https://github.com/jiahaoxiang2000/diary/issues/47) 25-08-31 Sun
+- [ ]  https://github.com/jiahaoxiang2000/tutor/issues/2 keep do for introduction, what is the crypto
+- [x] ready to review the paper
+  - https://github.com/jiahaoxiang2000/TempWrite/commit/f7b20ce5f7fddfe147945f6ac9bd209d6268ff68 to start with the jssc journal reviewer 
+
+### [#46](https://github.com/jiahaoxiang2000/diary/issues/46) 25-08-30 Sat
+- [x] https://github.com/jiahaoxiang2000/tutor/issues/2 to intro why do the crypt
+
+### [#45](https://github.com/jiahaoxiang2000/diary/issues/45) 25-08-29 Fri
+- [x] one student one system meeting
+- [x] crypto intro slide for class
+  -  start with the https://github.com/jiahaoxiang2000/tutor/commit/832d593fa9a8721099500bbcead806cb085c8759 
+
+### [#44](https://github.com/jiahaoxiang2000/diary/issues/44) 25-08-28 Aug
+- rest day on the home
+
+### [#43](https://github.com/jiahaoxiang2000/diary/issues/43) 25-08-27 Wed
+- [x] go back home
+
+### [#42](https://github.com/jiahaoxiang2000/diary/issues/42) 25-08-26 Tue
+> not thing want to do
+
+- [x] https://github.com/jiahaoxiang2000/all-in-mcp/releases/tag/v0.3.1 let the all-in-mcp can run muliti MCP server
+
+### [#41](https://github.com/jiahaoxiang2000/diary/issues/41) 25-08-25 Mon
+- [x] https://github.com/jiahaoxiang2000/ThirdPaper/issues/13 fix the advise 
+- [x] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 then to submit CAL, evening to do it
+
+
+
 ### [#40](https://github.com/jiahaoxiang2000/diary/issues/40) 25-08-24 Sun
 - [ ] https://github.com/jiahaoxiang2000/ThirdPaper/issues/11 let the leader to review, fix the issue, then to push journal
 
