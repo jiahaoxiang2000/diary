@@ -24,6 +24,33 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#54](https://github.com/jiahaoxiang2000/diary/issues/54) 25-09-07 Sun
+- [x] big paper writing, https://github.com/jiahaoxiang2000/big_paper/commit/a012a27f86163249d79b50a2d8361871c35402b0 to MISC fix the paper latex template
+- [ ] all-in-mcp add more basic tools
+
+### [#53](https://github.com/jiahaoxiang2000/diary/issues/53) 25-09-06 Sat
+- [x] https://github.com/jiahaoxiang2000/big_paper/issues/3 to finish the big paper translate works
+
+### [#52](https://github.com/jiahaoxiang2000/diary/issues/52) 25-09-05 Fri
+- [x] one student one system
+
+### [#51](https://github.com/jiahaoxiang2000/diary/issues/51) 25-09-04 Thu
+- [ ] https://github.com/jiahaoxiang2000/big_paper/issues/4 to continue paper translate
+
+### [#50](https://github.com/jiahaoxiang2000/diary/issues/50) 25-09-03 Wed
+- 9.3 see the TV show
+
+### [#49](https://github.com/jiahaoxiang2000/diary/issues/49) 25-09-02 Tue
+- [x] need finish to review the paper for jscc journal, also see the Deng paper
+  - jscc journal review finish on the  https://github.com/jiahaoxiang2000/TempWrite/commit/76d96c887c60a15d0d9ba1c0fcd58addc2bad4b7, which is one great paper, is perfect use the figure to show the information
+
+### [#48](https://github.com/jiahaoxiang2000/diary/issues/48) 25-09-01 Mon
+- [x]  https://github.com/jiahaoxiang2000/tutor/issues/2 keep do for introduction, what is the crypto
+- [x] ready to review the paper for jscc journal, basic see it on https://github.com/jiahaoxiang2000/TempWrite/commit/659fe6b8ee4017f1a308fd713c2497b3b66965e1
+- [x] go back school
+
+
+
 ### [#47](https://github.com/jiahaoxiang2000/diary/issues/47) 25-08-31 Sun
 - [ ]  https://github.com/jiahaoxiang2000/tutor/issues/2 keep do for introduction, what is the crypto
 - [x] ready to review the paper
