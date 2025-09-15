@@ -24,6 +24,38 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#61](https://github.com/jiahaoxiang2000/diary/issues/61) 25-09-14 Sun
+> keep least day jobs TODO
+- [ ]  see back the https://github.com/jiahaoxiang2000/deeper-paper fourth paper
+- [ ] https://github.com/jiahaoxiang2000/big_paper/issues/7 big paper outline
+
+
+### [#60](https://github.com/jiahaoxiang2000/diary/issues/60) 25-09-13 Sat
+- [x] MATH video https://www.bilibili.com/video/BV1y3pjzbE8a for determinant.
+
+### [#59](https://github.com/jiahaoxiang2000/diary/issues/59) 25-09-12 Fri
+- [ ]  see back the https://github.com/jiahaoxiang2000/deeper-paper fourth paper
+- [ ] https://github.com/jiahaoxiang2000/big_paper/issues/7 big paper outline
+- [x] one student one system meeting
+
+### [#58](https://github.com/jiahaoxiang2000/diary/issues/58) 25-09-11 Thu
+- [x] https://github.com/jiahaoxiang2000/MATH/issues/1 to finish the vector space transfer check
+
+### [#57](https://github.com/jiahaoxiang2000/diary/issues/57) 25-09-10 Wed
+- [ ] see back the https://github.com/jiahaoxiang2000/deeper-paper fourth paper
+- [x] https://github.com/jiahaoxiang2000/MATH/issues/1 to translate the vector space on MATH study
+
+### [#56](https://github.com/jiahaoxiang2000/diary/issues/56) 25-09-09 Tue
+- [x] weekly meeting, slide finish on https://github.com/jiahaoxiang2000/weekly_report/commit/d36edbdb3048ad5ee8f29d5b41b5a29f20df4d2c 
+
+### [#55](https://github.com/jiahaoxiang2000/diary/issues/55) 25-09-08 Mon
+- [x] for claude-conf project, need use the subagent to replace the commands function
+  - https://github.com/jiahaoxiang2000/claude-conf/issues/2 translate the basic command to subagent 
+- [x] weekly report need to writing
+  - https://github.com/jiahaoxiang2000/weekly_report/commit/611e7839d62e72f49e2f8e923ad4e4d630b0b85e finish this weekly report  
+
+
+
 ### [#54](https://github.com/jiahaoxiang2000/diary/issues/54) 25-09-07 Sun
 - [x] big paper writing, https://github.com/jiahaoxiang2000/big_paper/commit/a012a27f86163249d79b50a2d8361871c35402b0 to MISC fix the paper latex template
 - [ ] all-in-mcp add more basic tools
