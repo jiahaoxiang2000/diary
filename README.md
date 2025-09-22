@@ -24,6 +24,42 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#68](https://github.com/jiahaoxiang2000/diary/issues/68) 25-09-21 Sun
+- [ ] https://github.com/jiahaoxiang2000/big_paper/issues/8 to finish the phd apply slide, deep think.
+
+### [#67](https://github.com/jiahaoxiang2000/diary/issues/67) 25-09-20 Sat
+- [ ] https://github.com/jiahaoxiang2000/big_paper/issues/8 to finish the phd apply slide
+- [x] https://github.com/jiahaoxiang2000/ai-video-driver to startup the GITHUB HOTPOINT project
+
+### [#66](https://github.com/jiahaoxiang2000/diary/issues/66) 25-09-19 Fri
+- [ ] https://github.com/jiahaoxiang2000/big_paper/issues/8 to finish the phd apply slide
+- [x] one student one system
+
+### [#65](https://github.com/jiahaoxiang2000/diary/issues/65) 25-09-18 Thu
+> keep last day TODO
+- [x] phd apply show slide, start with https://github.com/jiahaoxiang2000/big_paper/commit/6a60c87290f5d1fb07076090101e42b373e893fe
+- [ ] foundation apply writing, here we plan when the apply  show slide finish, then to do.
+
+### [#64](https://github.com/jiahaoxiang2000/diary/issues/64) 25-09-17 Wed
+- [ ] phd apply show slide 
+- [ ] foundation apply writing
+- [x] https://github.com/jiahaoxiang2000/fitness-diet/issues/1 restart the weight loss plan
+
+### [#63](https://github.com/jiahaoxiang2000/diary/issues/63) 25-09-16 Tue
+- [x] https://github.com/jiahaoxiang2000/tutor/commit/4d0e073ad65f06a50646f0839ba2f2e4f811e3eb to fix the cipher-intro show slide pdf
+- [x] weekly meeting finish on https://github.com/jiahaoxiang2000/weekly_report/commit/93e6300685fe7da3d69f4928ad694938c823aa85
+- [ ] school prize file 
+
+### [#62](https://github.com/jiahaoxiang2000/diary/issues/62) 25-09-15 Mon
+- [x] https://github.com/jiahaoxiang2000/deeper-paper fourth paper restart
+  - https://github.com/jiahaoxiang2000/deeper-paper/commit/84200909de6a583b7b2012adbff08c84de9a4927 to reflect the intro & related work
+- [x] https://github.com/jiahaoxiang2000/big_paper/issues/7 big paper outline
+- [x] https://github.com/jiahaoxiang2000/weekly_report/commit/beffae85bec71c2c6e46fd6f7262bb87fd237ec5 weekly report
+- [ ] phd apply show slide
+
+
+
+
 ### [#61](https://github.com/jiahaoxiang2000/diary/issues/61) 25-09-14 Sun
 > keep least day jobs TODO
 - [ ]  see back the https://github.com/jiahaoxiang2000/deeper-paper fourth paper
