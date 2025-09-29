@@ -24,6 +24,38 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#75](https://github.com/jiahaoxiang2000/diary/issues/75) 2025-09-28 Sun
+- [ ] https://github.com/jiahaoxiang2000/big_paper/issues/8 keep do it
+- [x] create one math study video
+  - https://github.com/jiahaoxiang2000/MATH/commit/ba8789ef9256bcf41f531cc16dd7f5beb5bdb409 to try the new context, is hard so slow 
+
+### [#74](https://github.com/jiahaoxiang2000/diary/issues/74) 25-09-27 Sat
+- [ ] https://github.com/jiahaoxiang2000/CV/issues/1 to finish the skill CV by resume
+- [x] https://github.com/jiahaoxiang2000/big_paper/issues/8 the research summary slide for past 2 years
+  - https://github.com/jiahaoxiang2000/big_paper/commit/7b5f72d50c284af64e27b611e97fe5029243d2bc start the implement background introduction. 
+
+### [#73](https://github.com/jiahaoxiang2000/diary/issues/73) 25-09-26 Fri
+- [x] https://github.com/jiahaoxiang2000/nixos-config/issues/1 to trans FISH to ZSH
+- [x] one student one system
+
+### [#72](https://github.com/jiahaoxiang2000/diary/issues/72) 25-09-25 Thu
+- [x] to transfer the old application from ARCH to NIXOS 
+  - here we start this project https://github.com/jiahaoxiang2000/nixos-config 
+
+### [#71](https://github.com/jiahaoxiang2000/diary/issues/71) 25-09-24 Wed
+- [x] try nixos for linux, so we create the https://github.com/jiahaoxiang2000/nixos-conf/ for control all the config for our used linux.
+
+### [#70](https://github.com/jiahaoxiang2000/diary/issues/70) 25-09-23 Tue
+- [x] weekly report meeting 
+
+### [#69](https://github.com/jiahaoxiang2000/diary/issues/69) 25-09-22 Mon
+- [x] https://github.com/jiahaoxiang2000/big_paper/issues/8 to finish the phd apply slide, deep think.
+  - https://github.com/jiahaoxiang2000/big_paper/commit/b1f2656994a9acababf82fce617268e4ef497859 start with the slide 
+- [x] foundation apply writing on https://github.com/jiahaoxiang2000/big_paper/commit/96f96ae1b415c75f95176f1cd9827275739f8b9c
+- [x] weekly report on https://github.com/jiahaoxiang2000/weekly_report/commit/6b2b4c592cf7b4f6e10a1c4874cff1b503533612
+
+
+
 ### [#68](https://github.com/jiahaoxiang2000/diary/issues/68) 25-09-21 Sun
 - [ ] https://github.com/jiahaoxiang2000/big_paper/issues/8 to finish the phd apply slide, deep think.
 
