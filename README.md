@@ -24,6 +24,33 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#82](https://github.com/jiahaoxiang2000/diary/issues/82) 2025-10-05 Sun
+- [x] https://github.com/jiahaoxiang2000/ThirdPaper/issues/14  ready to response
+
+### [#81](https://github.com/jiahaoxiang2000/diary/issues/81) 2025-10-04 Sat
+- [x] https://github.com/jiahaoxiang2000/ThirdPaper/issues/14  third paper to finish p3.2-p3.3 
+  - first version of the AE + p3.1-3.3 
+
+### [#80](https://github.com/jiahaoxiang2000/diary/issues/80) 2025-10-03 Fri
+- [x] https://github.com/jiahaoxiang2000/ThirdPaper/issues/14 third paper R2 keep do it, first to see the major/key meaning of AE/RE
+  - finish the p3.1, total p3.1-p3.3 
+
+### [#79](https://github.com/jiahaoxiang2000/diary/issues/79) 2025-10-02 Thu
+- [x] https://github.com/jiahaoxiang2000/ThirdPaper/issues/14 third paper R2 replay is ready.
+
+### [#78](https://github.com/jiahaoxiang2000/diary/issues/78) 2025-10-01 Wed
+- [x] https://github.com/jiahaoxiang2000/jiahaoxiang2000.github.io/commit/dfc9809b28722b0b6b60fa413c8b1df977efa564 to finish the claude code configuration
+- [x] https://github.com/jiahaoxiang2000/nixos-config/commit/fb6db8cd7a9b40966ab7a39f852b54f87f768a4c intro our nixos config
+
+### [#77](https://github.com/jiahaoxiang2000/diary/issues/77) 2025-09-30 Tue
+- [x] weekly report meeting
+- [x] https://github.com/jiahaoxiang2000/CV/issues/1 to finish the job-cv
+
+### [#76](https://github.com/jiahaoxiang2000/diary/issues/76) 2025-09-29 Mon
+- [x] weekly report writing
+
+
+
 ### [#75](https://github.com/jiahaoxiang2000/diary/issues/75) 2025-09-28 Sun
 - [ ] https://github.com/jiahaoxiang2000/big_paper/issues/8 keep do it
 - [x] create one math study video
