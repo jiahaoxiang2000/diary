@@ -24,6 +24,32 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#89](https://github.com/jiahaoxiang2000/diary/issues/89) 2025-10-12 Sun
+- [ ] big paper need to push process
+
+### [#88](https://github.com/jiahaoxiang2000/diary/issues/88) 2025-10-11 Sat
+- [x] https://github.com/jiahaoxiang2000/big_paper/issues/8 finish our work introduction, we only finish the SBOX implementation example
+
+### [#87](https://github.com/jiahaoxiang2000/diary/issues/87) 2025-10-10 Fri
+- [ ] https://github.com/jiahaoxiang2000/big_paper/issues/8 finish our work introduction
+- [x] https://github.com/jiahaoxiang2000/nvim-config/commits?author=jiahaoxiang2000&since=2025-10-09&until=2025-10-10 nvim support deepseek completion
+
+### [#86](https://github.com/jiahaoxiang2000/diary/issues/86) 2025-10-09 Thu
+- [x] https://github.com/jiahaoxiang2000/storybook finish one game on https://jiahaoxiang2000.itch.io/stroybook
+
+### [#85](https://github.com/jiahaoxiang2000/diary/issues/85) 2025-10-08 Wed
+- [x] re back all dev-Env on Arch linux
+  - https://github.com/jiahaoxiang2000/linux-config/commits/master/?since=2025-10-08&until=2025-10-08 create the Latex & Typst Env, Python & Rust & Nodejs.
+
+### [#84](https://github.com/jiahaoxiang2000/diary/issues/84) 2025-10-07 Tue
+- [x] vscode to the nvim, here we create the https://github.com/jiahaoxiang2000/jiahaoxiang2000.github.io/commit/90c1528eb8ddbc4a9b83ba71c851a33278788bf2 IDE journey blog & video
+
+### [#83](https://github.com/jiahaoxiang2000/diary/issues/83) 2025-10-06 Mon
+- [x] use NVIM to repalce VsCoode
+  - https://github.com/jiahaoxiang2000/nvim-config/commits/lazy/?since=2025-10-06&until=2025-10-06 change much thing 
+
+
+
 ### [#82](https://github.com/jiahaoxiang2000/diary/issues/82) 2025-10-05 Sun
 - [x] https://github.com/jiahaoxiang2000/ThirdPaper/issues/14  ready to response
 
