@@ -24,6 +24,41 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#96](https://github.com/jiahaoxiang2000/diary/issues/96) 2025-10-19 Sun
+- rest one day
+
+### [#95](https://github.com/jiahaoxiang2000/diary/issues/95) 2025-10-18 Sat
+- [x] jiahaoxiang2000/SecondPaper#6  to plan each response point, deal with simple comment
+
+### [#94](https://github.com/jiahaoxiang2000/diary/issues/94) 2025-10-17 Fri
+- [x] one student one system meeting
+- [x] game document update, 1wangnan1/Panda-Qiqi@c8a4a80 finish it.
+- [x] ready to jiahaoxiang2000/SecondPaper#6 second paper review
+
+### [#93](https://github.com/jiahaoxiang2000/diary/issues/93) 2025-10-16 Thu
+- [x] paper review MUST finish 10-18, https://github.com/jiahaoxiang2000/TempWrite/commit/f48e99bb3021a6c9232cb88f68359e790ae199c3 to accept it
+- [x] game document
+  - https://github.com/jiahaoxiang2000/storybook/commit/c6eac46292710a42f8b597abc574dcbb17d7470f one homework finish  
+
+### [#92](https://github.com/jiahaoxiang2000/diary/issues/92) 2025-10-15 Wed
+- [ ] paper review
+- [x] paper file submit for public
+  - https://github.com/jiahaoxiang2000/ThirdPaper/commit/f5b33c2c3d3ff9729965ba09ca44aaabc2002b7d submit the origin paper 
+- [x] game homework
+  - https://github.com/jiahaoxiang2000/storybook/commits?author=jiahaoxiang2000&since=2025-10-14&until=2025-10-15  
+
+### [#91](https://github.com/jiahaoxiang2000/diary/issues/91) 2025-10-14 Tue
+- [ ] paper review
+- [x] weekly report meeting
+
+### [#90](https://github.com/jiahaoxiang2000/diary/issues/90) 2025-10-13 Mon
+- [ ] paper review
+- [x] https://github.com/jiahaoxiang2000/storybook/issues/1 storybook fix FONT show issue, finish document
+- [x] https://github.com/jiahaoxiang2000/weekly_report/commit/c4746a1f2e3f9a14b63ece9c684c6651efe8e008 weekly report writing
+- [x] https://github.com/jiahaoxiang2000/linux-config/issues/3 solve the background application run icon
+
+
+
 ### [#89](https://github.com/jiahaoxiang2000/diary/issues/89) 2025-10-12 Sun
 - [ ] big paper need to push process
 
