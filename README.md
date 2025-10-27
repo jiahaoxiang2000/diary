@@ -24,6 +24,30 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#103](https://github.com/jiahaoxiang2000/diary/issues/103) 2025-10-26 Sun
+- [x] jiahaoxiang2000/secondpaper#6  ready to submit
+
+### [#102](https://github.com/jiahaoxiang2000/diary/issues/102) 2025-10-25 Sat
+- [x] jiahaoxiang2000/secondpaper#6 to fix the lead comment in the https://github.com/jiahaoxiang2000/SecondPaper/commit/befd97bd81a7e8a199d568b30fa14f25a7c46be2
+- [x] https://github.com/jiahaoxiang2000/blivedm_rs/releases/tag/v0.5.0 blivedm add TUI input function
+
+### [#101](https://github.com/jiahaoxiang2000/diary/issues/101) 2025-10-24 Fri
+- [x] jiahaoxiang2000/secondpaper#6 leader check then to submit
+- [x] https://github.com/jiahaoxiang2000/jiahaoxiang2000.github.io/commit/4ee94a2842c791252d2ed73d3df6246180e6f566 for the niri WM introduction
+
+### [#100](https://github.com/jiahaoxiang2000/diary/issues/100) 2025-10-23 Thu
+- [x] jiahaoxiang2000/secondpaper#6 to finish EDITOR comment
+
+### [#99](https://github.com/jiahaoxiang2000/diary/issues/99) 2025-10-22 Wed
+- [x] jiahaoxiang2000/secondpaper#6 keep to finish rest comment
+
+### [#98](https://github.com/jiahaoxiang2000/diary/issues/98) 2025-10-21 Tue
+- [x] jiahaoxiang2000/secondpaper#6 keep follower finish the p2.4 & p2.5
+  - only finish the p2.4
+- [x] finish weekly report
+
+
+
 ### [#96](https://github.com/jiahaoxiang2000/diary/issues/96) 2025-10-19 Sun
 - rest one day
 
