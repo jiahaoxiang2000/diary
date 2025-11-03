@@ -24,6 +24,32 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#110](https://github.com/jiahaoxiang2000/diary/issues/110) 2025-11-02 Sun
+- [ ] hack learn
+
+### [#109](https://github.com/jiahaoxiang2000/diary/issues/109) 2025-11-01 Sat
+- [x] talk with teacher
+
+### [#108](https://github.com/jiahaoxiang2000/diary/issues/108) 2025-10-31 Fri
+- [ ] read the shared website resource based on the RESEARCH
+- [x] one student one system meeting
+
+### [#107](https://github.com/jiahaoxiang2000/diary/issues/107) 2025-10-30 Thu
+- [x] pwn video  in https://www.bilibili.com/video/BV1PtyhBrEXi & https://www.bilibili.com/video/BV1HLyaBBEgd
+
+### [#106](https://github.com/jiahaoxiang2000/diary/issues/106) 2025-10-29 Wed
+- [x] pwn video in https://www.bilibili.com/video/BV1aAysBYEcY/
+- [ ] jiahaoxiang2000/big_paper#8 intro do work slide
+
+### [#105](https://github.com/jiahaoxiang2000/diary/issues/105) 2025-10-28 Tue
+- [x] weekly meeting
+
+### [#104](https://github.com/jiahaoxiang2000/diary/issues/104) 2025-10-27 Mon
+- [x] weekly report writing finish in the jiahaoxiang2000/weekly_report@fcac1ac
+- [ ] jiahaoxiang2000/big_paper keep writing
+
+
+
 ### [#103](https://github.com/jiahaoxiang2000/diary/issues/103) 2025-10-26 Sun
 - [x] jiahaoxiang2000/secondpaper#6  ready to submit
 
