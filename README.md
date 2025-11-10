@@ -24,6 +24,28 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#116](https://github.com/jiahaoxiang2000/diary/issues/116) 2025-11-09 Sun
+- [ ] pwn find solution
+
+### [#115](https://github.com/jiahaoxiang2000/diary/issues/115) 2025-11-07 Fri
+- [x] pwn video for crypt
+- [x] one student one system
+
+### [#114](https://github.com/jiahaoxiang2000/diary/issues/114) 2025-11-06 Thu
+- [x] PWN video https://www.bilibili.com/video/BV1My2cBNEY1/
+
+### [#113](https://github.com/jiahaoxiang2000/diary/issues/113) 2025-11-05 Wed
+- [x] pwn video
+
+### [#112](https://github.com/jiahaoxiang2000/diary/issues/112) 2025-11-04 Tue
+- [x] weekly meeting finish in https://github.com/jiahaoxiang2000/weekly_report/commit/67e502e0324bd87724ffe30e3652d2ad91fd45a2
+
+### [#111](https://github.com/jiahaoxiang2000/diary/issues/111) 2025-11-03 Mon
+- [x] writing weekly report in https://github.com/jiahaoxiang2000/weekly_report/commit/98247771ea4513f2fcf19cdec49b6a757cc88c71
+- [ ] hack assembly learn
+
+
+
 ### [#110](https://github.com/jiahaoxiang2000/diary/issues/110) 2025-11-02 Sun
 - [ ] hack learn
 
