@@ -24,6 +24,26 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#121](https://github.com/jiahaoxiang2000/diary/issues/121) 2025-11-16 Sun
+- [x] create the PWN repo, if much function split it to submodule git repo. 
+  - https://github.com/jiahaoxiang2000/pwn 
+
+### [#120](https://github.com/jiahaoxiang2000/diary/issues/120) 2025-11-15 Sat
+- [x] finish the https://pwn.college/intro-to-cybersecurity/integrated-security/
+
+### [#119](https://github.com/jiahaoxiang2000/diary/issues/119) 2025-11-12 Wed
+- [x] Re pwn
+
+### [#118](https://github.com/jiahaoxiang2000/diary/issues/118) 2025-11-11 Tue
+- [x] weekly meeting
+- [x] RE video
+
+### [#117](https://github.com/jiahaoxiang2000/diary/issues/117) 2025-11-10 Mon
+- [x] weekly report writing
+- [x] find pwn solution of the RE
+
+
+
 ### [#116](https://github.com/jiahaoxiang2000/diary/issues/116) 2025-11-09 Sun
 - [ ] pwn find solution
 
