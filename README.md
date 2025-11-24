@@ -24,6 +24,28 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#127](https://github.com/jiahaoxiang2000/diary/issues/127) 2025-11-23 Sun
+- [ ] codeql learn
+
+### [#126](https://github.com/jiahaoxiang2000/diary/issues/126) 2025-11-22 Sat
+- [x] qwen code video intro why not use claude code https://www.bilibili.com/video/BV1UeUnB8EX7/
+- [x] codeql for program analysis https://www.bilibili.com/video/BV1d4UsBDErh/
+
+### [#125](https://github.com/jiahaoxiang2000/diary/issues/125) 2025-11-20 Thu
+- [x] learn the java Deserialization issue
+
+### [#124](https://github.com/jiahaoxiang2000/diary/issues/124) 2025-11-19 Wed
+- [x] transfer River WM To Sway WM, the stack table mode is awesome in https://www.bilibili.com/video/BV1kgyEBeEgE/
+
+### [#123](https://github.com/jiahaoxiang2000/diary/issues/123) 2025-11-18 Tue
+- [x] weekly meeting
+
+### [#122](https://github.com/jiahaoxiang2000/diary/issues/122) 2025-11-17 Mon
+- [x] weekly report writing
+- [x] create pwn video in https://www.bilibili.com/video/BV1FBCiBLEWw/
+
+
+
 ### [#121](https://github.com/jiahaoxiang2000/diary/issues/121) 2025-11-16 Sun
 - [x] create the PWN repo, if much function split it to submodule git repo. 
   - https://github.com/jiahaoxiang2000/pwn 
