@@ -24,6 +24,18 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#130](https://github.com/jiahaoxiang2000/diary/issues/130) 2025-11-27 Thu
+- [x] keep prepare Apply resource
+
+### [#129](https://github.com/jiahaoxiang2000/diary/issues/129) 2025-11-26 Wed
+- [x] PHD apply file collection https://github.com/jiahaoxiang2000/PHD-apply/commit/328fa230a3a4a1d95ee237308525c4a52d8d8520 for the prepare materials
+- [ ] intro work slide 
+
+### [#128](https://github.com/jiahaoxiang2000/diary/issues/128) 2025-11-24 Mon
+- [x] weekly report writing finish in https://github.com/jiahaoxiang2000/weekly_report/commit/323fc81bcef4bcbad99b84254a2f9ad50a4805b5
+
+
+
 ### [#127](https://github.com/jiahaoxiang2000/diary/issues/127) 2025-11-23 Sun
 - [ ] codeql learn
 
