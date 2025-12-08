@@ -24,6 +24,22 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#134](https://github.com/jiahaoxiang2000/diary/issues/134) 2025-12-07 Sun
+- [x] print all the sign apply files, finish the apply recommends in https://github.com/jiahaoxiang2000/PHD-apply/commit/45bc1b4c43bd5db2a58ebb415c56f7cc332a93d6 
+
+### [#133](https://github.com/jiahaoxiang2000/diary/issues/133) 2025-12-04 Thu
+- [x] all the no sign file of the PHD-apply
+
+### [#132](https://github.com/jiahaoxiang2000/diary/issues/132) 2025-12-03 Wed
+- [x] LLM video test for deepseek v3.2 in https://www.bilibili.com/video/BV1Dc2xB6EUU/
+- [x] keep to finish the https://github.com/jiahaoxiang2000/agent-bench project FINISH MVP
+
+### [#131](https://github.com/jiahaoxiang2000/diary/issues/131) 2025-12-02 Tue
+- [x] prepare file for https://github.com/jiahaoxiang2000/PHD-apply print all file
+- [x] weekly report in https://github.com/jiahaoxiang2000/weekly_report/commit/ca0025ec8e3c95ead65506bd742cc7416c8cb5ab
+
+
+
 ### [#130](https://github.com/jiahaoxiang2000/diary/issues/130) 2025-11-27 Thu
 - [x] keep prepare Apply resource
 
