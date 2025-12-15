@@ -24,6 +24,30 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#140](https://github.com/jiahaoxiang2000/diary/issues/140) 2025-12-14 Sun
+- [ ] big paper
+- [ ] deep-paper try to refine
+
+### [#139](https://github.com/jiahaoxiang2000/diary/issues/139) 2025-12-12 Fri
+- [ ] major paper OR apply slide
+
+### [#138](https://github.com/jiahaoxiang2000/diary/issues/138) 2025-12-11 Thu
+- [ ] intro work ppt & big paper
+- [x] map video show project for the init show https://github.com/jiahaoxiang2000/map-show-video/commit/8277cbdea795c19fd07ebe7ceb096273b6f48ad1
+
+### [#137](https://github.com/jiahaoxiang2000/diary/issues/137) 2025-12-10 Wed
+- [x] math learn in https://github.com/jiahaoxiang2000/MATH/commit/80715283822e3f604ffdadf58bb4d8e73d3dc6c8
+- [ ] major paper OR apply slide
+
+### [#136](https://github.com/jiahaoxiang2000/diary/issues/136) 2025-12-09 Tue
+- [x] weekly meeting finish in https://github.com/jiahaoxiang2000/weekly_report/commit/45a5248347fcfcc7eb7b5c79abe77b77c5e7ea2a
+
+### [#135](https://github.com/jiahaoxiang2000/diary/issues/135) 2025-12-08 Mon
+- [x] all the sign file for the phd apply in https://github.com/jiahaoxiang2000/PHD-apply/commit/caff4095f88be69159a71482eb3d54e546363896
+- [x] weekly report in the https://github.com/jiahaoxiang2000/weekly_report/commit/9743900c2e5f1992b765fd44e290268a5f07b7e9
+
+
+
 ### [#134](https://github.com/jiahaoxiang2000/diary/issues/134) 2025-12-07 Sun
 - [x] print all the sign apply files, finish the apply recommends in https://github.com/jiahaoxiang2000/PHD-apply/commit/45bc1b4c43bd5db2a58ebb415c56f7cc332a93d6 
 
