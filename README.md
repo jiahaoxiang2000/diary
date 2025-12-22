@@ -24,6 +24,32 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#146](https://github.com/jiahaoxiang2000/diary/issues/146) 2025-12-20 Sat
+- [x] fix the https://github.com/jiahaoxiang2000/map-show-video/issues/1
+- [ ] work introduction in https://github.com/jiahaoxiang2000/phD-apply/issues/1
+
+### [#145](https://github.com/jiahaoxiang2000/diary/issues/145) 2025-12-19 Fri
+- [ ] fix the https://github.com/jiahaoxiang2000/map-show-video/issues/1
+- [ ] work introduction in https://github.com/jiahaoxiang2000/PHD-apply
+
+### [#144](https://github.com/jiahaoxiang2000/diary/issues/144) 2025-12-18 Thu
+- [ ] big paper
+
+### [#143](https://github.com/jiahaoxiang2000/diary/issues/143) 2025-12-17 Wed
+- [x] map video show
+  - [x] online to our website, online it in tencent clound CloudBase for static page
+  - [x] add the katong map & horizontal screen finish in the https://github.com/jiahaoxiang2000/map-show-video/commit/9ec3f6c003bbbee08b1017ab976632fe4f35cf50
+
+### [#142](https://github.com/jiahaoxiang2000/diary/issues/142) 2025-12-16 Tue
+- [x] weekly meeting talk in https://github.com/jiahaoxiang2000/weekly_report/commit/bf3e3ef94c6adc78c0653789d50bc5c36d6df3ab
+- [ ] big paper
+
+### [#141](https://github.com/jiahaoxiang2000/diary/issues/141) 2025-12-15 Mon
+- [x] weekly report https://github.com/jiahaoxiang2000/weekly_report/commit/dd6ae401e64d595223a81540732841517123fd90
+- [ ] big paper in jiahaoxiang2000/big_paper
+
+
+
 ### [#140](https://github.com/jiahaoxiang2000/diary/issues/140) 2025-12-14 Sun
 - [ ] big paper
 - [ ] deep-paper try to refine
