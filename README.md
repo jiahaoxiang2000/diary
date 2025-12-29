@@ -24,6 +24,34 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#153](https://github.com/jiahaoxiang2000/diary/issues/153) 2025-12-28 Sun
+- [x] https://github.com/jiahaoxiang2000/PHD-apply/issues/1 add we had gone job
+
+### [#152](https://github.com/jiahaoxiang2000/diary/issues/152) 2025-12-27 Sat
+- [x] https://github.com/jiahaoxiang2000/PHD-apply/issues/4 for the slide intro
+- [x] https://github.com/jiahaoxiang2000/big_paper/issues/9 add the ref new document 
+
+### [#151](https://github.com/jiahaoxiang2000/diary/issues/151) 2025-12-26 Fri
+- [x] map-show-video finish in https://github.com/jiahaoxiang2000/map-show-video/commit/4ce9a7f148fea259a32cb33732f185be37901676
+- [x] opencode-isomo https://github.com/jiahaoxiang2000/opencode-isomo Fork of OpenCode with custom development changes
+
+### [#150](https://github.com/jiahaoxiang2000/diary/issues/150) 2025-12-25 Thu
+- [x] https://github.com/jiahaoxiang2000/PHD-apply/issues/1 add the reference job
+
+### [#149](https://github.com/jiahaoxiang2000/diary/issues/149) 2025-12-24 Wed
+- [x] https://github.com/jiahaoxiang2000/map-show-video/issues/2 change the map show page
+- [ ] https://github.com/jiahaoxiang2000/PHD-apply/issues/1 add the reference job
+
+### [#148](https://github.com/jiahaoxiang2000/diary/issues/148) 2025-12-23 Tue
+- [x] weekly report meeting in https://github.com/jiahaoxiang2000/weekly_report/commit/602c76ed4c4e92e4f9a9c3f76962e34d29091a9e
+- [ ] also see opencode, update the https://github.com/jiahaoxiang2000/opencode-config/
+
+### [#147](https://github.com/jiahaoxiang2000/diary/issues/147) 2025-12-22 Mon
+- [x] weekly report in  https://github.com/jiahaoxiang2000/weekly_report/commit/906cfc073b1925cad3d64adfacc977ee8384caea
+- [x] https://github.com/jiahaoxiang2000/map-show-video afternoon show the finial version in the https://github.com/jiahaoxiang2000/map-show-video/releases/tag/v0.3.1
+
+
+
 ### [#146](https://github.com/jiahaoxiang2000/diary/issues/146) 2025-12-20 Sat
 - [x] fix the https://github.com/jiahaoxiang2000/map-show-video/issues/1
 - [ ] work introduction in https://github.com/jiahaoxiang2000/phD-apply/issues/1
