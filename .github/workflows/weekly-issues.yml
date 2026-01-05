@@ -2,8 +2,8 @@ name: Weekly Issues Collection
 
 on:
   schedule:
-    - cron: '0 0 * * 1'  # Run every Monday at midnight UTC
-  workflow_dispatch:  # Allow manual trigger
+    - cron: "0 0 * * 1" # Run every Monday at midnight UTC
+  workflow_dispatch: # Allow manual trigger
 
 jobs:
   collect-issues:
@@ -11,11 +11,11 @@ jobs:
     permissions:
       contents: write
       issues: read
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
+
       - name: Get last week's issues
         id: get-issues
         uses: actions/github-script@v7
@@ -23,7 +23,7 @@ jobs:
           script: |
             const now = new Date();
             const lastWeek = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
-            
+
             const issues = await github.rest.issues.listForRepo({
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -31,12 +31,12 @@ jobs:
               state: 'all',
               per_page: 100
             });
-            
+
             const weeklyIssues = issues.data.filter(issue => 
               !issue.pull_request && 
               new Date(issue.created_at) >= lastWeek
             );
-            
+
             let issueList = '';
             if (weeklyIssues.length === 0) {
               issueList = 'No new issues created this week.';
@@ -53,22 +53,22 @@ jobs:
               const issueDetails = await Promise.all(issuePromises);
               issueList = issueDetails.join('\n');
             }
-            
+
             const weekStart = lastWeek.toISOString().split('T')[0];
             const weekEnd = now.toISOString().split('T')[0];
-            
+
             core.setOutput('issues', issueList);
             core.setOutput('week-start', weekStart);
             core.setOutput('week-end', weekEnd);
-            
+
       - name: Add new issues to TODO Collection
         run: |
           ISSUES="${{ steps.get-issues.outputs.issues }}"
-          
+
           # Check if there are new issues to add
           if [[ "$ISSUES" != "No new issues created this week." && -n "$ISSUES" ]]; then
             # Create a temporary file with new issues
-            echo -e "\n\n$ISSUES" > new_issues.txt
+            echo -e "$ISSUES" > new_issues.txt
             
             # Use awk to insert new issues after TODO Collection header
             awk '
@@ -86,7 +86,7 @@ jobs:
             # Clean up
             rm -f new_issues.txt
           fi
-          
+
       - name: Commit and push changes
         run: |
           git config --local user.email "jiahaoxiang2000@gmail.com"
