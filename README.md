@@ -24,6 +24,36 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ## TODO Collection
 
 
+### [#160](https://github.com/jiahaoxiang2000/diary/issues/160) 2026-01-04 Sun
+- [x] check all the files in XiangTan university
+- [x] memory self English introduction
+
+### [#159](https://github.com/jiahaoxiang2000/diary/issues/159) 2026-01-03 Sat
+- [x] mid check files
+- [x] finial check https://github.com/jiahaoxiang2000/PHD-apply/issues/4 file & send the slide ppt
+
+### [#158](https://github.com/jiahaoxiang2000/diary/issues/158) 2026-01-02 Fri
+- [x] English introduction 2m
+
+### [#157](https://github.com/jiahaoxiang2000/diary/issues/157) 2026-01-01 Thu
+- [x] prepare all print files ref in https://github.com/jiahaoxiang2000/phD-apply/issues/4
+- [ ] English self introduction
+
+### [#156](https://github.com/jiahaoxiang2000/diary/issues/156) 2025-12-31 Wed
+- [x] https://github.com/jiahaoxiang2000/PHD-apply/issues/4 slide PPT show
+- [ ] English self intro recite
+
+### [#155](https://github.com/jiahaoxiang2000/diary/issues/155) 2025-12-30 Tue
+- [x] weekly meeting in https://github.com/jiahaoxiang2000/weekly_report/commit/0089d466586e9ef1d13b0d4896afff2c261d793f
+- [x] https://github.com/jiahaoxiang2000/PHD-apply/issues/2 self English introduction
+- [x] let Senior sister review apply-slide, next to the teacher review
+
+### [#154](https://github.com/jiahaoxiang2000/diary/issues/154) 2025-12-29 Mon
+- [x] https://github.com/jiahaoxiang2000/PHD-apply/issues/3 for PHD work Plan
+- [x] weekly report add in https://github.com/jiahaoxiang2000/weekly_report/commit/c64557058cb92f5fc9a745e1e977649966aeb26c
+
+
+
 ### [#153](https://github.com/jiahaoxiang2000/diary/issues/153) 2025-12-28 Sun
 - [x] https://github.com/jiahaoxiang2000/PHD-apply/issues/1 add we had gone job
 
