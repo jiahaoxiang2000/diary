@@ -22,6 +22,26 @@ For example, the file path is `2021/01/01.md`. For navigation on the `docsify` s
 ---
 
 ## TODO Collection
+### [#166](https://github.com/jiahaoxiang2000/diary/issues/166) 2026-01-10 Sat
+- [x] https://github.com/jiahaoxiang2000/claude-skills/issues/1 figure skill
+
+### [#165](https://github.com/jiahaoxiang2000/diary/issues/165) 2026-01-09 Fri
+- [x] https://github.com/jiahaoxiang2000/big_paper/issues/10 try to finish the chapter2
+- [ ] adjust https://github.com/jiahaoxiang2000/big_paper/tree/main/.opencode/skill/draw-io draw-io skill for figure
+
+### [#164](https://github.com/jiahaoxiang2000/diary/issues/164) 2026-01-08 Thu
+- [x] https://github.com/jiahaoxiang2000/big_paper/issues/10 total plan should add
+
+### [#163](https://github.com/jiahaoxiang2000/diary/issues/163) 2026-01-07 Wed
+- [x] https://github.com/jiahaoxiang2000/big_paper/issues/10 plan some context
+
+### [#162](https://github.com/jiahaoxiang2000/diary/issues/162) 2026-01-06 Tue
+- [x] https://github.com/jiahaoxiang2000/big_paper/issues/9 mid-report for thesis need change
+- [x] weekly meeting report
+
+### [#161](https://github.com/jiahaoxiang2000/diary/issues/161) 2026-01-05 Mon
+- [x] PHD exam is FINISH https://github.com/jiahaoxiang2000/PHD-apply/issues/4
+
 
 
 ### [#160](https://github.com/jiahaoxiang2000/diary/issues/160) 2026-01-04 Sun
